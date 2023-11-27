@@ -1,4 +1,4 @@
-# Liberland-Healthcare-System
+# EscotaDAO
  
 This repository is dedicated to crafting a non-public healthcare system for the microstate of LiberLand. Despite its non-public nature, the project is committed to providing quality healthcare assistance to citizens and visitors of LiberLand, irrespective of their economic capacity. Grounded in the principles of individual freedom and the recognition of people's inherent right to manage their bodies, the initiative emphasizes essential pillars of self-care, knowledge, respect, assistance, and compassion.
 
